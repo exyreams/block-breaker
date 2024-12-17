@@ -10,16 +10,13 @@ This implementation is inspired by the classic Block Breaker game, enhanced with
 
 ### Screenshots
 
-![game-menu](!%5Bgame-menu%5D%28https://github.com/user-attachments/assets/fb8d769e-5de3-4778-bf45-eebde6d2f0ff%29)
-
+![game-menu](https://github.com/user-attachments/assets/4ab36406-7685-41ab-99a2-dae73c93aeca)
 > A screenshot of the game's Main Menu.
 
-![difficulty menu](!%5Bdifficulty-menu%5D%28https://github.com/user-attachments/assets/3b79d18f-2a85-4b56-a90a-832dbbcb77aa%29)
-
+![difficulty-menu](https://github.com/user-attachments/assets/694c52f8-2ba5-4a64-8632-036101fb226c)
 > A screenshot of the games of Difficulty menu.
 
-![help-menu](!%5Bhelp-menu%5D%28https://github.com/user-attachments/assets/9305f060-c200-4ada-8b72-a631eab30ae3%29)
-
+![help-menu](https://github.com/user-attachments/assets/9b1217de-4010-4d97-8100-993b33ec54d3)
 > A screenshot of the game's Help Menu.
 
 ## Features
