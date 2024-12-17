@@ -109,15 +109,22 @@ The `/assets/` directory contains game assets including images for the backgroun
 
 ### Using the Command Line (Windows, macOS, Linux):
 
-1. Navigate to the project directory:
-
+1. Clone this repository
 ```bash
 
-cd /path/to/your/project
+git clone https://github.com/exyreams/block-breaker.git
 
 ```
 
-2. Compile all `.java` files:
+2. Navigate to the project directory:
+
+```bash
+
+cd block-breaker
+
+```
+
+3. Compile all `.java` files:
 
 ```bash
 
@@ -125,7 +132,7 @@ javac game/*.java
 
 ```
 
-3. Run the game using the `Main` class:
+4. Run the game using the `Main` class:
 
 ```bash
 
