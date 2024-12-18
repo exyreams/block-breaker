@@ -8,6 +8,8 @@ This implementation is inspired by the classic Block Breaker game, enhanced with
 
 ## Gameplay Demo:
 
+https://github.com/user-attachments/assets/53e5be0c-bfee-4fc9-9cd3-1f623b3da1c7
+
 ### Screenshots
 
 ![game-menu](https://github.com/user-attachments/assets/4ab36406-7685-41ab-99a2-dae73c93aeca)
